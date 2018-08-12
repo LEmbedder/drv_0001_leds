@@ -17,6 +17,8 @@
 //modfile
 //modfile
 //ssss
+//ssss
+//ssss
 struct led_desc{
 	int gpio;
 	char *name;
